@@ -20,6 +20,10 @@ header h1 { /*todos los h1 del header van a tener este estilo, en este caso el t
     text-align: center;
 }
 
+.imagen {
+    border-radius: 15px;
+}
+
 header img { /*alinea todas las imagenes de header al centro, por defecto estas img tienen el valor inline, hay que cambiarlo*/
     display: block;
     margin: auto;
